@@ -1,2 +1,8 @@
 pkg
 bin
+.idea
+.cache/
+build/
+Would skip repository src/github.com/jtolds/gls
+Would skip repository src/github.com/smartystreets/assertions
+Would skip repository src/github.com/smartystreets/goconvey
